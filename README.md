@@ -1,22 +1,57 @@
-## Hey, there!!
+<h1 align="left">Hey there! 👋</h1>
 
-Meu nome é Marcelo Studart, eu sou Desenvolvedor de Software Back-end e estou em transição de carreira desde 2022. Iniciei meus estudos em Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense em 2022, e fui aprovado para uma bolsa integral na Cubos Academy em 2023 na stack que estou em contínuo desenvolvimento.
+###
 
-Sou formado em Jornalismo, mas trabalhei por 10 anos como Guarda-Florestal. Apesar do background recente em programação, sempre fui o "mestre das planilhas" por onde passei e tenho um longo histórico profissional em gerenciamento de informações. Sou apaixonado por esportes e nas horas vagas crio tabelas de campeonatos e simuladores no Excel (sem preconceito com modalidades!). ⚽🏀🥊 
+<h3 align="left">👩‍💻  About Me</h3>
 
-### Como me encontrar:
+###
 
-[Linkedin](www.linkedin.com/in/marcelostudart) e E-mail
+<p align="left">Meu nome é Marcelo Studart, mineiro de coração e apaixonado por pão-de-queijo, cresci no interior do Estado do Rio de Janeiro. Sou Desenvolvedor de Software e estou em transição de carreira desde 2022. Iniciei meus estudos em Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense em naquele ano e fui aprovado para uma bolsa integral na [Cubos Academy](https://cubos.academy/) em parceria com [iFood](https://www.news.ifood.com.br/ifood-oferece-1-000-bolsas-para-curso-de-programacao/) e [Potência Tech](https://potenciatech.com.br/play/text/14790799/detalhe) em 2023 na stack que estou em contínuo desenvolvimento. <br><br>  Atualmente, tenho aperfeiçoado meus conhecimentos em Javascript e tenho interesse em Python, linguagem que já me aventurei por conta do interesse em banco de dados.<br><br>Interesso-me também por aplicações dinâmicas que aprimoram o trabalho e facilitam o tráfego de informações. Por isso, também busco me especializar na plataforma Trailhead da Salesforce e em outras que possuem didáticas abertas. Gostaria de colaborar em projetos semelhantes, que dão suporte no gerenciamento de dados e nos processos de tomada de decisão. Sou formado em Jornalismo, mas trabalhei por 10 anos como Guarda-Florestal. Apesar do background recente em programação, sempre fui o "ninja das planilhas" por onde passei e tenho um longo histórico profissional em gerenciamento de informações. Sou apaixonado por esportes e nas horas vagas crio tabelas de campeonatos e simuladores no Excel (sem preconceito com modalidades!). ⚽🏀🥊</p>
 
-### Hard Skills
+###
 
-Javascript, Node.js, Git, SQL e Excel
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcelostudart" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="studartmarc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### Outras habilidades
+###
 
-Interesso-me por aplicações dinâmicas que aprimoram o trabalho e facilitam o tráfego de informações. Por isso, também busco me especializar na plataforma Trailhead da Salesforce e em outras que possuem didáticas abertas. Gostaria de colaborar em projetos semelhantes, que dão suporte no gerenciamento de dados e nos processos de tomada de decisão.
+<h3 align="left">🛠 Hard Skills</h3>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif"  />
+</div>
+
+###
 <!--
 **studartmarc/studartmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
