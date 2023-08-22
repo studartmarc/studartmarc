@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Marcelo Studart, mineiro de coração e apaixonado por pão-de-queijo, cresci no interior do Estado do Rio de Janeiro. Sou Desenvolvedor de Software e estou em transição de carreira desde 2022. Iniciei meus estudos em Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense em naquele ano e fui aprovado para uma bolsa integral na [Cubos Academy](https://cubos.academy/) em parceria com [iFood](https://www.news.ifood.com.br/ifood-oferece-1-000-bolsas-para-curso-de-programacao/) e [Potência Tech](https://potenciatech.com.br/play/text/14790799/detalhe) em 2023 na stack que estou em contínuo desenvolvimento. <br><br>  Atualmente, tenho aperfeiçoado meus conhecimentos em Javascript e tenho interesse em Python, linguagem que já me aventurei por conta do interesse em banco de dados.<br><br>Interesso-me também por aplicações dinâmicas que aprimoram o trabalho e facilitam o tráfego de informações. Por isso, também busco me especializar na plataforma Trailhead da Salesforce e em outras que possuem didáticas abertas. Gostaria de colaborar em projetos semelhantes, que dão suporte no gerenciamento de dados e nos processos de tomada de decisão. Sou formado em Jornalismo, mas trabalhei por 10 anos como Guarda-Florestal. Apesar do background recente em programação, sempre fui o "ninja das planilhas" por onde passei e tenho um longo histórico profissional em gerenciamento de informações. Sou apaixonado por esportes e nas horas vagas crio tabelas de campeonatos e simuladores no Excel (sem preconceito com modalidades!). ⚽🏀🥊</p>
+<p align="left">Meu nome é Marcelo Studart, mineiro de coração e apaixonado por pão-de-queijo, cresci no interior do Estado do Rio de Janeiro. Sou Desenvolvedor de Software e estou em transição de carreira desde 2022. Iniciei meus estudos em Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense em naquele ano e fui aprovado para uma bolsa integral na <a href="https://cubos.academy/">Cubos Academy</a> em parceria com <a href="https://www.news.ifood.com.br/ifood-oferece-1-000-bolsas-para-curso-de-programacao/">iFood</a> e <a href="https://potenciatech.com.br/play/text/14790799/detalhe">Potência Tech</a> em 2023 na stack que estou em contínuo desenvolvimento. <br><br>  Atualmente, tenho aperfeiçoado meus conhecimentos em Javascript e tenho interesse em Python, linguagem que já me aventurei por conta do interesse em banco de dados.<br><br>Interesso-me também por aplicações dinâmicas que aprimoram o trabalho e facilitam o tráfego de informações. Por isso, também busco me especializar na plataforma Trailhead da Salesforce e em outras que possuem didáticas abertas. Gostaria de colaborar em projetos semelhantes, que dão suporte no gerenciamento de dados e nos processos de tomada de decisão. Sou formado em Jornalismo, mas trabalhei por 10 anos como Guarda-Florestal. Apesar do background recente em programação, sempre fui o "ninja das planilhas" por onde passei e tenho um longo histórico profissional em gerenciamento de informações. Sou apaixonado por esportes e nas horas vagas crio tabelas de campeonatos e simuladores no Excel (sem preconceito com modalidades!). ⚽🏀🥊</p>
 
 ###
 
@@ -45,10 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+  <img height="150" src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif"  />
+
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif"  />
+  <img height="220" src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png"  />
 </div>
 
 ###
