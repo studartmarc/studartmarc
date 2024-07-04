@@ -44,16 +44,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-  <img height="150" src="https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif"  />
-
-###
-
+<br>
 <div align="center">
-  <img height="220" src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+
 <!--
 **studartmarc/studartmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
